@@ -1,0 +1,6 @@
+{
+  "name": "KoreHR - Human Resource Management System",
+  "description": "Enterprise-grade Human Resource Management System featuring role-based workflows for HR, Managers, and Employees with attendance tracking, leave approvals, employee lifecycle, announcements, and training management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
